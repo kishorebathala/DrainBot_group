@@ -26,7 +26,7 @@ In modern cities, drainage blockages caused by plastic, grease, and other waste 
   git clone https://github.com/your-username/drainage-robot.git
 cd drainage-robot
 
-*Install :-
+* Install :-
 Arduino IDE, and required libraries (like AFMotor) are installed.
 
 * Upload Code to Arduino
