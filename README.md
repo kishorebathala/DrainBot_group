@@ -45,7 +45,8 @@ Arduino IDE, and required libraries (like AFMotor) are installed.
  * Time Savings: Reduced inspection time by 40% compared to manual methods.
  * Safety Improvement: Minimized worker exposure to dangerous environments.
 
-C:\Users\kisho\OneDrive\Desktop\pt\my\My\CAPSTONE PROJECT\Image 2.jpg 
+![Uploading Image 2.jpg…]()
+
 
 # Future Work
  * IoT Integration: Add predictive maintenance capabilities.
