@@ -45,7 +45,8 @@ Arduino IDE, and required libraries (like AFMotor) are installed.
  * Time Savings: Reduced inspection time by 40% compared to manual methods.
  * Safety Improvement: Minimized worker exposure to dangerous environments.
 
-![Uploading Image 2.jpg…]()
+![Image 2](https://github.com/user-attachments/assets/429b6ff9-d999-4b38-b6f6-ee70c3aca383)
+
 
 
 # Future Work
