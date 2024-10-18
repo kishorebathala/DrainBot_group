@@ -6,6 +6,7 @@ In modern cities, drainage blockages caused by plastic, grease, and other waste 
 # Features
 
 .Autonomous Navigation: Uses GPS and Inertial Measurement Units (IMUs) to move through drainage networks.
+
 .Real-Time Detection: Equipped with ultrasonic and infrared sensors to detect blockages.
 .Reduced Manual Labor: Minimizes the need for human intervention in dangerous environments.
 .Cost-Effective: Designed with affordable components like Raspberry Pi and Arduino.
