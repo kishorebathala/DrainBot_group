@@ -14,10 +14,22 @@ In modern cities, drainage blockages caused by plastic, grease, and other waste 
 
 # Technologies and Components
 
-Microcontrollers: Raspberry Pi and Arduino Uno
-Sensors: Ultrasonic, Infrared Cameras, GPS
-Motors: DC and Stepper Motors for precise movement
-Software: Neural networks for blockage detection and control algorithms
-Communication Module: Real-time data monitoring via remote interface
+* Microcontrollers: Raspberry Pi and Arduino Uno
+* Sensors: Ultrasonic, Infrared Cameras, GPS
+* Motors: DC and Stepper Motors for precise movement
+* Software: Neural networks for blockage detection and control algorithms
+* Communication Module: Real-time data monitoring via remote interface
 
+# Installation
 
+* Clone the Repository
+  git clone https://github.com/your-username/drainage-robot.git
+cd drainage-robot
+
+*Install :-
+Arduino IDE, and required libraries (like AFMotor) are installed.
+
+* Upload Code to Arduino
+  * Open the robot_control.ino file in Arduino IDE.
+  * Connect your Arduino and upload the code.
+ 
