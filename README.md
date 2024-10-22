@@ -23,7 +23,7 @@ In modern cities, drainage blockages caused by plastic, grease, and other waste 
 # Installation
 
 * Clone the Repository
-  git clone https://github.com/your-username/drainage-robot.git
+  git clone (https://github.com/kishorebathala/DrainBot_group)
 cd drainage-robot
 
 * Install :-
